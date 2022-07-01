@@ -25,17 +25,17 @@
   ### :hammer_and_wrench: Tech skills
   
   <div>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="30"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="45"/>
     <br/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/express-original-wordmark.svg" width="30"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="30"/>
-    
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/typescript/typescript-plain.svg" width="45"/>   
   </div>
+  
+  #
   
 
 
