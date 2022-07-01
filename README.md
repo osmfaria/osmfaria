@@ -1,4 +1,4 @@
-<img src="./assets/coding.png" align="right" height="100px"/>
+<img src="./assets/coding-emoji.png" align="right" height="100px"/>
 
 <div> 
 <h1>
