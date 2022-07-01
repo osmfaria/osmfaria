@@ -37,9 +37,14 @@
   
   #
   
+  ### <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=green" alt="Portfolio Badge" height="30"/>
+  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmfaria&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmfaria)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmfaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
