@@ -1,4 +1,5 @@
-### Hi there, I'm Osmar 👋
+<img src="icon.png" align="right" />
+# Hi there, I'm Osmar 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/osmar-faria/">
