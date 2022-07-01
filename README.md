@@ -1,11 +1,5 @@
 ### Hi there, I'm Osmar 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="100"/>
-</div>
-
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/osmar-faria/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
