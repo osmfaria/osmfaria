@@ -17,7 +17,7 @@
   ### :man: About me
   
   - :computer: I enjoy working on frontend and backend web applications.
-  - :seedling: I'm currently learning how to work with django.
+  - :seedling: I'm currently learning how to work with Nextjs.
   - 👯 I’m looking to collaborate on open source projects!
   
   #
