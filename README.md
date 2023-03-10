@@ -1,3 +1,4 @@
+![Header](./assets/github-header-image.png)
 <img src="./assets/coding-emoji.png" align="right" height="100px"/>
 
 <div> 
