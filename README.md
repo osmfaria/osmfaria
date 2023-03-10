@@ -25,7 +25,7 @@
   ### :hammer_and_wrench: Tech stack
   
   <div style="background: #fff;">
-    ![background](./assets/whiteboard.png)
+    ![background]("./assets/whiteboard.png")
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="45"/>
