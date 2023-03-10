@@ -32,7 +32,9 @@
     <br/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="45"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/typescript/typescript-plain.svg" width="45"/>   
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/typescript/typescript-plain.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="45"/>   
+    
   </div>
   
   #
