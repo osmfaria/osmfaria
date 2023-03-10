@@ -22,7 +22,7 @@
   
   #
   
-  ### :hammer_and_wrench: Tech skills
+  ### :hammer_and_wrench: Tech stack
   
   <div style="background: #fff;">
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="45"/>
@@ -33,10 +33,20 @@
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/typescript/typescript-plain.svg" width="45"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="45"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="45"/>   
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="45"/> 
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/express-original-wordmark.svg" width="45"/>    </div>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/express-original-wordmark.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/python/python-original-wordmark.svg" width="45"/>
+    
+    
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
+    
+    
+  
+  </div>
   
   #
   
