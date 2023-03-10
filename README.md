@@ -24,7 +24,7 @@
   
   ### :hammer_and_wrench: Tech skills
   
-  <div>
+  <div style="background-color: #f2f2f2;">
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/react/react-original.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/javascript/javascript-plain.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="45"/>
