@@ -36,7 +36,7 @@
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="45"/> 
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/express-original-wordmark.svg" width="45"/>
-    <img src="https://github.com/osmfaria/devicon/blob/master/icons/express/python/python-original-wordmark.svg" width="45"/>  
+    <img src="https://github.com/osmfaria/devicon/blob/master/icons/python/python-original-wordmark.svg" width="45"/>  
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
     <img src="https://github.com/osmfaria/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45"/>
