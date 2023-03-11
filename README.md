@@ -18,8 +18,9 @@
   ### :man: About me
   
   - :computer: I enjoy working on frontend and backend web applications.
-  - :seedling: I'm currently learning how to work with Nextjs.
+  - :seedling: I'm currently learning MongoDB.
   - 👯 I’m looking to collaborate on open source projects!
+  - I'm currently working in the frontend of an [court scheduler app](https://github.com/osmfaria/sport-facility-scheduler-frontend)  
   
   #
   
