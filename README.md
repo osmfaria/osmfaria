@@ -72,24 +72,24 @@
  
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/osmfaria" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/osmar-faria" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-    <a href="https://osmar-faria.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-grey?style=plastic&logo=react" alt="Portfolio Badge" height="27
+  <a href="https://github.com/osmfaria" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
+  <a href="https://linkedin.com/in/osmar-faria" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+      <a href="https://osmar-faria.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-grey?style=plastic&logo=react" alt="Portfolio Badge" height="27"
+   </a>
 </div>  
   
-  #
-  
-  ### <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=green" alt="Portfolio Badge" height="30"/>
+ #
+  <div align="center">
+  <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=green" alt="Portfolio Badge" height="30"/>
   
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmfaria&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  </div>
 
 
 
