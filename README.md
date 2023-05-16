@@ -18,7 +18,7 @@
   ### :man: About me
   
   - :computer: I enjoy working on frontend and backend web applications.
-  - :seedling: I'm currently learning MongoDB.
+  - :seedling: I'm currently learning RPA.
   - 👯 I’m looking to collaborate on open source projects!
   - I'm currently working in the frontend of an [court scheduler app](https://github.com/osmfaria/sport-facility-scheduler-frontend)  
   
