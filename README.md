@@ -1,4 +1,4 @@
-![Header](./assets/header.png)
+![Header](./assets/3 - Banner.png)
 <img src="./assets/coding-emoji.png" align="right" height="100px"/>
 
 <div> 
