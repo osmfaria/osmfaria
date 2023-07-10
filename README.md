@@ -52,7 +52,8 @@
 #
 
  
-### :link: Connect with me  
+### :link: Connect with me
+I'm always excited to connect with fellow developers and collaborate on meaningful projects
 <div align="center">
   <a href="https://linkedin.com/in/osmar-faria" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -63,8 +64,8 @@
 </div>  
   
  #
-  <div align="center">
   <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=green" alt="Portfolio Badge" height="30"/>
+  <div align="center">
   
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osmfaria&theme=dark&background=000000)](https://git.io/streak-stats)
