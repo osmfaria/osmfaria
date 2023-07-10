@@ -1,5 +1,4 @@
 ![Header](./assets/banner.png)
-<img src="./assets/coding-emoji.png" align="right" height="100px"/>
 
 <div> 
 <h1>
