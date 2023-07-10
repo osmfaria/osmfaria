@@ -1,4 +1,4 @@
-![Header](./assets/banner.png)
+![Header](./assets/banner2.png)
 
 <div> 
 <h1>
